@@ -1,4 +1,4 @@
-- 👋 Sup guys! I'm coden0w better said my name is Alex!
+- 👋 Sup guys! I'm Alex!
 - 👀 I’m interested in new technologies
 - 🔭 I’m currently working as iOS Developer
 - 🌱 I’m currently learning ReactJS, NodeJS, RxSwift
