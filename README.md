@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies
 - 🔭 I’m currently working as iOS Developer
 - 🌱 I’m currently learning ReactJS, NodeJS, RxSwift
-- 📫 How to reach me?, hit me a dm on twitter @alexupps
+- 📫 How to reach me?, hit a dm on linkedin. (you can find the link on my website!)
 
 <!--
 **alexupps/alexupps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
